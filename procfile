@@ -1,1 +1,1 @@
-web: gunicorn abdoutimezone.wsgi
+web: gunicorn alltimes.wsgi
