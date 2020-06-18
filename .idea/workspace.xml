@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e108540-3b52-4711-adc8-d4982a62c53e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/basetimezone.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/basetimezone.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +37,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="timezone_project" type="Python.DjangoServer" factoryName="Django server">
@@ -78,7 +80,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591222357040</updated>
       <workItem from="1591222360990" duration="2395000" />
-      <workItem from="1591466241418" duration="1226000" />
+      <workItem from="1591466241418" duration="1444000" />
+      <workItem from="1592160478010" duration="2971000" />
+      <workItem from="1592494835567" duration="612000" />
+      <workItem from="1592508251600" duration="1257000" />
+      <workItem from="1592513698074" duration="1254000" />
+      <workItem from="1592515743094" duration="881000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>
@@ -106,9 +113,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591224339443" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1591222620592">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1592161816445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591222620592" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592161816445" />
   </component>
 </project>
