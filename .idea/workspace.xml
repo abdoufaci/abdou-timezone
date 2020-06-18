@@ -4,6 +4,7 @@
     <list default="true" id="0e108540-3b52-4711-adc8-d4982a62c53e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/basetimezone.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/basetimezone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/my_app/timezonesearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/my_app/timezonesearch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,10 @@
       <workItem from="1592494835567" duration="612000" />
       <workItem from="1592508251600" duration="1257000" />
       <workItem from="1592513698074" duration="1254000" />
-      <workItem from="1592515743094" duration="881000" />
+      <workItem from="1592515743094" duration="1548000" />
+      <workItem from="1592517632262" duration="54000" />
+      <workItem from="1592519054111" duration="102000" />
+      <workItem from="1592519542486" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>
