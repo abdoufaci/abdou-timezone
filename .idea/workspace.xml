@@ -24,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="f9ed1146-dfa4-474d-86c3-242a5154cad9" />
   <component name="ProjectId" id="1cpP2xZ0Pz16LhTusfrmSc55TtZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,6 +72,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,7 +95,8 @@
       <workItem from="1592519542486" duration="1477000" />
       <workItem from="1592521449999" duration="1638000" />
       <workItem from="1592523528141" duration="1619000" />
-      <workItem from="1592583050415" duration="982000" />
+      <workItem from="1592583050415" duration="1533000" />
+      <workItem from="1592585612461" duration="1158000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>
@@ -106,7 +109,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
