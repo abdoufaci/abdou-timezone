@@ -44,6 +44,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -96,7 +102,8 @@
       <workItem from="1592521449999" duration="1638000" />
       <workItem from="1592523528141" duration="1619000" />
       <workItem from="1592583050415" duration="1533000" />
-      <workItem from="1592585612461" duration="1516000" />
+      <workItem from="1592585612461" duration="2164000" />
+      <workItem from="1592660317796" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>

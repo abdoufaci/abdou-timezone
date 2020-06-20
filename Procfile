@@ -1,1 +1,1 @@
-web: gunicorn alltimes.wsgi
+web: gunicorn --env DJANGO_SETTINGS_MODULE=timezone_project.settings alltimes.wsgi
