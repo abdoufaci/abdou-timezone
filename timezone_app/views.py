@@ -14,7 +14,7 @@ def timezone_search(request):
     search = request.POST.get('search')
     datetime_today = datetime.datetime.now(tz=pytz.UTC)
     datetime_worl = datetime_today.astimezone(pytz.timezone(search))
-    datetime_world =datetime_worl.strftime('%H : %M : %S')
+    datetime_world =datetime_worl.strftime('%H : %M ')
     for tz in pytz.all_timezones :
        da.append(tz)
     date.append(datetime_world)
