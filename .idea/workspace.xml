@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e108540-3b52-4711-adc8-d4982a62c53e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0e108540-3b52-4711-adc8-d4982a62c53e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
       <workItem from="1592523528141" duration="1619000" />
       <workItem from="1592583050415" duration="1533000" />
       <workItem from="1592585612461" duration="2164000" />
-      <workItem from="1592660317796" duration="1183000" />
+      <workItem from="1592660317796" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>
@@ -136,6 +134,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591224339443" />
+    <state x="263" y="107" key="IDE.errors.dialog" timestamp="1592661860077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="107" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1592661860077" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1592161816445">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
