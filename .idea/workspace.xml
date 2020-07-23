@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0e108540-3b52-4711-adc8-d4982a62c53e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_times/all_times.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/all_times/all_times.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/my_app/timezonesearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/my_app/timezonesearch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +107,7 @@
       <workItem from="1592585612461" duration="2164000" />
       <workItem from="1592660317796" duration="7139000" />
       <workItem from="1592844144011" duration="61000" />
+      <workItem from="1595516925538" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="timezone">
       <created>1591224345118</created>
@@ -145,5 +148,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592161816445" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595516971398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595516971398" />
   </component>
 </project>
